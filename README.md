@@ -10,7 +10,7 @@
 ---
 
 <p>
-  <a href="https://github.com/robertoumbelino/github-readme-stats">
+  <a href="https://github.com/William-Koerich/github-readme-stats">
     <img
       align="center"
       height="165"
