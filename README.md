@@ -1,7 +1,7 @@
 ## Hi, i'm William Koerich! 🖖🏻
 ---
 
-#### I'm working was developer system 11 month
+#### I'm working was developer system 1 year
 
 - 🧠 Loves apply his knowledge to solve problems
 - 🚀 In constants evolution
