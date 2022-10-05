@@ -10,21 +10,10 @@
 ---
 
 <p>
-  <a href="https://github.com/William-Koerich/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=William-Koerich&count_private=true&show_icons=true&custom_title=William's%20Github%20Stats&hide=issues&theme=dracula"
-    />
-  </a>
-  
-  <a href="https://github.com/William-Koerich/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Koerich&&layout=compact&theme=dracula&langs_count=8)"
-    />
-  </a>
+  <img
+    align="center"
+    src="https://activity-graph.herokuapp.com/graph?username=William-Koerich&theme=dracula&hide_border=true"
+  />
 </p>
 
 ---
