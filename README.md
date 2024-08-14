@@ -1,11 +1,11 @@
 ## Hi, i'm William Koerich! 🖖🏻
 ---
 
-#### I'm working was developer system 2 year
+#### I'm working was developer system 5 year
 
-- 🧠 Loves apply his knowledge to solve problems
-- 🚀 In constants evolution
-- 🐶 Like dog
+- 🧠 I loves apply his knowledge to solve problems
+- 🚀 In constant evolution
+- 🐶 I like dogs
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-Languages I work
+Languages i work with
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
