@@ -9,15 +9,6 @@
 
 ---
 
-<p>
-  <img
-    align="center"
-    src="https://activity-graph.herokuapp.com/graph?username=William-Koerich&theme=dracula&hide_border=true"
-  />
-</p>
-
----
-
 Languages i work with
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
