@@ -34,6 +34,7 @@ Studying
 ![Graphql](https://img.shields.io/badge/graphql-%23e10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Type Graphql](https://img.shields.io/badge/type_graphql-%232f7bc5.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23d23a20.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Flutterl](https://img.shields.io/badge/flutter-%232f7bc5.svg?&style=for-the-badge&logo=flutter&logoColor=cyan)
 
 ---
 Social medias
