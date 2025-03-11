@@ -24,6 +24,7 @@ Languages i work with
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -35,6 +36,8 @@ Studying
 ![Type Graphql](https://img.shields.io/badge/type_graphql-%232f7bc5.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23d23a20.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Flutterl](https://img.shields.io/badge/flutter-%232f7bc5.svg?&style=for-the-badge&logo=flutter&logoColor=cyan)
+![React Native](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 ---
 Social medias
