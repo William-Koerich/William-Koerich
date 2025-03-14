@@ -36,7 +36,7 @@ Studying
 ![Type Graphql](https://img.shields.io/badge/type_graphql-%232f7bc5.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23d23a20.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Flutterl](https://img.shields.io/badge/flutter-%232f7bc5.svg?&style=for-the-badge&logo=flutter&logoColor=cyan)
-![React Native](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React_Native](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ---
